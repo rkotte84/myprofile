@@ -5,7 +5,8 @@
   "main": "src/index.html",
   "scripts": {
     "start": "live-server src",
-    "build": "echo 'Build process can be defined here.'"
+    "build": "echo 'Build process can be defined here.'",
+    "deploy": "gh-pages -d src"
   },
   "keywords": [
     "personal",
