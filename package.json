@@ -16,8 +16,9 @@
   ],
   "author": "Your Name",
   "license": "MIT",
-  "dependencies": {},
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "live-server": "^1.2.1"
-  }
+  },
+  "homepage": "https://rkotte84.github.io/myprofile/"
 }
