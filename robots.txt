@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.liveeforce.com/sitemap.xml
+
+# Optional: Crawl-delay (in seconds)
+Crawl-delay: 1
